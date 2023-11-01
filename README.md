@@ -1,0 +1,1 @@
+attempts to complete 50 HTML, CSS, JS projects
