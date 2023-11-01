@@ -1,0 +1,1 @@
+this app displays a random quote from an array when clicking on a button
