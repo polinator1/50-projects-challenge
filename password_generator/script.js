@@ -33,7 +33,7 @@ copyBtn.addEventListener('click', () => {
 
 // listen for generate button
 generateBtn.addEventListener('click', () => {
-    const length = passwordLength.value
+    const length = +passwordLength.value
     const numbers = includeNumbers.checked
     const upperCase = includeUpperCase.checked
     const lowerCase = includeLowerCase.checked
