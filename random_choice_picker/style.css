@@ -34,7 +34,7 @@ textarea {
     font-size: 16px;
 }
 
-.result {
+.tag {
     background-color: #f0932b;
     color: #fff;
     border-radius: 50px;
@@ -44,6 +44,6 @@ textarea {
     display: inline-block;
   }
   
-  .result.highlight {
+  .tag.highlight {
     background-color: #273c75;
   }
