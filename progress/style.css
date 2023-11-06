@@ -1,5 +1,5 @@
 :root {
-    --line-border-fill: #F2ACC6;
+    --line-border-fill: #F24535;
     --line-border-empty: #e0e0e0;
   }
 
@@ -58,7 +58,7 @@ body {
 .round {
     width: 30px;
     height: 30px;
-    background-color: #F24535;
+    background-color: #F2ACC6;
     border-radius: 50%;
     display: flex;
     align-items: center;
